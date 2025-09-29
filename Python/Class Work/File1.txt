@@ -1,0 +1,2 @@
+This is a new file.
+Checking the write command for overwriting the content
